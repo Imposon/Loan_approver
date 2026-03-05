@@ -126,8 +126,3 @@ python loan_model.py
 
 ---
 
-## Author
-
-Aditya Sinha  
-BTech CSE (AI & ML)
->>>>>>> 6160d75 (advancements)
